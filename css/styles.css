@@ -5,4 +5,19 @@
     background-color: rgb(192, 195, 228);
     margin-bottom: 10px;
     box-sizing: border-box;
+    text-align:center
+  }
+
+.about {
+      font-weight:bold;
+      color: beige;
+  }
+
+.body {
+    width: 100%;
+    border: solid rgb(92, 164, 182);
+    border-width: 20px;
+    background-color: rgb(192, 231, 253);
+    margin-bottom: 10px;
+    box-sizing: border-box;
   }
