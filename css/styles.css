@@ -9,8 +9,8 @@
   }
 
 .about {
-      font-weight:bold;
-      color: beige;
+      font-weight:bolder;
+      color: rgb(71, 71, 58);
   }
 
 .body {
@@ -18,6 +18,19 @@
     border: solid rgb(92, 164, 182);
     border-width: 20px;
     background-color: rgb(192, 231, 253);
+    margin-bottom: 10px;
+    box-sizing: border-box;
+  }
+
+h1 {
+    text-size-adjust: 24;
+}
+
+.links {
+    width: 100%;
+    border: solid rgb(123, 130, 231);
+    border-width: 20px;
+    background-color: rgb(119, 217, 255);
     margin-bottom: 10px;
     box-sizing: border-box;
   }
