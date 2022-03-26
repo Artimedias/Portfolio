@@ -1,0 +1,8 @@
+.Intro {
+    width: 100%;
+    border: solid rgb(109, 150, 160);
+    border-width: 20px;
+    background-color: rgb(192, 195, 228);
+    margin-bottom: 10px;
+    box-sizing: border-box;
+  }
