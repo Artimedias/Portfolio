@@ -1,10 +1,17 @@
 Application Name: Index.html
+
 Name of Contributor: Brett Roper.
+
 Description of Application: A webpage made in HTML that will be used as a platform to make a portfolio from.
+
 Link to site on GitHub Page: https://github.com/Artimedias/Portfolio
+
 Technologies Used: VSCode, Gitbash.
+
 Setup/Installation: Clone this repository to wherever you wish, then open index.html in your preferred web browser
+
 Known Bugs: None
+
 License: Copyright 2022 Brett Roper
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
