@@ -4,7 +4,9 @@ Name of Contributor: Brett Roper.
 
 Description of Application: A webpage made in HTML that will be used as a platform to make a portfolio from.
 
-Link to site on GitHub Page: https://github.com/Artimedias/Portfolio
+Link to github repository: https://github.com/Artimedias/Portfolio
+
+Link to te sit on Github pages: https://artimedias.github.io/Portfolio/
 
 Technologies Used: VSCode, Gitbash.
 
